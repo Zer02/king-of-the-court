@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Ranked Leaderboard</h1>
+    <br>
     <Map />
   </div>
 </template>
